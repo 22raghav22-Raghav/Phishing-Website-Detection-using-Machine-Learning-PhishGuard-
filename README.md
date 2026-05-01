@@ -49,10 +49,10 @@ Result -> !!! DANGER: PHISHING !!! (96.72%)
 
 
 Project Structure
-PhishGuard/
-│── phishguard.py
-│── README.md
-│── requirements.txt
+PhishGuard__
+phishguard.py
+README.md
+requirements.txt
 
 
 How to Run:
