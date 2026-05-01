@@ -61,7 +61,7 @@ data = {
         "http://103.45.122.1/sbi-login/", "http://bit.ly/paytm-kyc-now",
         "https://uidai.gov.in/", "http://electricity-bill-pay.org",
         "https://www.amazon.in/", "http://amazon-lucky-draw.net"
-    ] * 15, # This creates 120 rows
+    ] * 15, 
     'label': [0, 0, 1, 1, 0, 1, 0, 1] * 15
 }
 pd.DataFrame(data).to_csv('urls.csv', index=False)
